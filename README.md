@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Fullstack`**
 
-Me chamo Igor Manes, tenho 21 anos e sou de Goiânia/GO. Curso Engenharia de Software no SENAI e tenho experiência em automação de processos com Python, desenvolvida durante estágio como Dev RPA no Instituto Euvaldo Lodi. Atualmente estou aprofundando conhecimentos em Python e aprendendo PHP com Laravel.
+Me chamo Igor Manes, tenho 21 anos e sou de Goiânia/GO. Curso Engenharia de Software no SENAI e tenho experiência em automação de processos com Python, desenvolvida durante estágio como Dev RPA no Instituto Euvaldo Lodi. Atualmente estou aprofundando conhecimentos em Python/Java e aprendendo PHP com Laravel.
 
 <p align="left">
     <a href="https://github.com/IgorManes?tab=followers">
