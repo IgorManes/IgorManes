@@ -100,23 +100,3 @@ Me chamo Igor Manes, tenho 21 anos e sou de Goiânia/GO. Curso Engenharia de Sof
 
 <br/>
 <br/>
-
-### 📊Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=IgorManes&show_icons=true&theme=tokyonight&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorManes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
