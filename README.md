@@ -19,7 +19,7 @@ Me chamo Igor Manes, tenho 21 anos e sou de Goiânia/GO. Curso Engenharia de Sof
             <img
                 alt="Total de estrelas"
                 title="Total de estrelas no GitHub"
-                src="https://img.shields.io/github/stars/IgorManes?style=for-the-badge&logo=github&label=estrelas&labelColor=0d1117&color=181717"
+                src="https://custom-icon-badges.demolab.com/github/stars/IgorManes?style=for-the-badge&logo=star&label=estrelas&labelColor=0d1117&color=181717"
             />
     </a>
     <a
