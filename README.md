@@ -9,7 +9,7 @@ Me chamo Igor Manes, tenho 21 anos e sou de Goiânia/GO. Curso Engenharia de Sof
         <img 
             alt="Seguidores" 
             title="Siga-me no Github" 
-            src="https://custom-icon-badges.demolab.com/github/followers/IgorManes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white&=v2"
+            src="https://custom-icon-badges.demolab.com/github/followers/IgorManes?color=181717&labelColor=0d1117&style=for-the-badge&logo=github&label=seguidores&logoColor=white"&=v2"
         />
     </a>
     <a href="https://github.com/IgorManes?tab=repositories&sort=stargazers">
@@ -77,8 +77,18 @@ Me chamo Igor Manes, tenho 21 anos e sou de Goiânia/GO. Curso Engenharia de Sof
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 
 <br/>
 <br/>
+
+---
+
+### 📌 Projeto em destaque
+
+**[Robô de Extração de Editais](https://github.com/IgorManes/Robo-extrair-editais)** — Automação em Python
+com Playwright que coleta diariamente editais em 6 portais de órgãos de fomento, organiza os arquivos
+por órgão e data, gera log estruturado em planilha e envia relatório automático por e-mail.
+Desenvolvido durante meu estágio no IEL Goiás e publicado com autorização — substituiu cerca de
+2 horas diárias de verificação manual da equipe de inovação.
