@@ -1,8 +1,8 @@
 # 👨🏻‍💻💎 Igor Manes
 
-**`Desenvolvedor Fullstack`**
+**`Automação & Backend`**
 
-Me chamo Igor Manes, tenho 21 anos e sou de Goiânia/GO. Curso Engenharia de Software no SENAI e tenho experiência em automação de processos com Python, desenvolvida durante estágio como Dev RPA no Instituto Euvaldo Lodi. Atualmente estou aprofundando conhecimentos em Python/Java e aprendendo PHP com Laravel.
+Me chamo Igor Manes, tenho 21 anos e sou de Goiânia/GO. Curso Engenharia de Software no SENAI e tenho experiência em automação de processos, desenvolvida durante estágio como Desenvolvedor RPA no Instituto Euvaldo Lodi. Trabalho principalmente com Python e Playwright para automação web e web scraping. Hoje aprofundo Python, estudo Java na faculdade e comecei a estudar JavaScript.
 
 <p align="left">
     <a href="https://github.com/IgorManes?tab=followers">
@@ -40,30 +40,6 @@ Me chamo Igor Manes, tenho 21 anos e sou de Goiânia/GO. Curso Engenharia de Sof
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
