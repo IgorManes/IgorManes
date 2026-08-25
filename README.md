@@ -9,14 +9,14 @@ Me chamo Igor Manes, tenho 21 anos e sou de Goiânia/GO. Curso Engenharia de Sof
         <img 
             alt="Seguidores" 
             title="Siga-me no Github" 
-            src="https://custom-icon-badges.demolab.com/github/followers/IgorManes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/IgorManes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white&=v2"
         />
     </a>
     <a href="https://github.com/IgorManes?tab=repositories&sort=stargazers">
         <img
             alt="Total de estrelas"
             title="Total de estrelas GitHub"
-            src="https://custom-icon-badges.demolab.com/github/stars/IgorManes?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/IgorManes?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas&=v2"
         />
     </a>
     <a href="https://www.linkedin.com/in/igor-manes/" target="_blank">
