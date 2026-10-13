@@ -2,7 +2,7 @@
 
 **`Automação & Backend`**
 
-Me chamo Igor Manes, tenho 21 anos e sou de Goiânia/GO. Curso Engenharia de Software no SENAI e tenho experiência em automação de processos, desenvolvida durante estágio como Desenvolvedor RPA no Instituto Euvaldo Lodi. Trabalho principalmente com Python e Playwright para automação web e web scraping. Hoje aprofundo Python, estudo Java na faculdade e comecei a estudar JavaScript.
+Me chamo Igor Manes, tenho 21 anos e sou de Goiânia/GO. Curso Engenharia de Software no SENAI e tenho experiência em automação de processos, desenvolvida durante estágio como Desenvolvedor RPA no Instituto Euvaldo Lodi. Trabalho principalmente com Python e Playwright para automação web e web scraping. Hoje aprofundo Python, estudo Java na faculdade e venho estudando Linux e Docker.
 
 <p align="left"> <a href="https://github.com/IgorManes?tab=repositories&sort=stargazers"><img alt="Total de estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/IgorManes?style=for-the-badge&logo=star&label=estrelas&labelColor=DAA520&color=181717" /></a> <a href="https://github.com/IgorManes?tab=followers"><img alt="Seguidores" title="Siga-me no Github" src="https://img.shields.io/github/followers/IgorManes?style=for-the-badge&logo=github&label=seguidores&labelColor=0d1117&color=181717" /></a> <a href="https://www.linkedin.com/in/igor-manes/" target="_blank"><img alt="LinkedIn" title="Meu LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 
